@@ -1,1 +1,3 @@
 # myFirstProject
+
+i wanna die
